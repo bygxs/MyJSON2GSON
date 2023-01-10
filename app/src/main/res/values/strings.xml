@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My JSON to GSON way</string>
+    <string name="json_gson_look_inside"><![CDATA[JSON & GSON LOOK INSIDE]]></string>
+</resources>
